@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dunkfordyce/browserify-fix-node_modules-requires/issues"
   },
-  "homepage": "https://github.com/dunkfordyce/browserify-fix-node_modules-requires"
+  "homepage": "https://github.com/dunkfordyce/browserify-fix-node_modules-requires",
+  "dependencies": {
+    "browserify-transform-tools": "^1.3.3"
+  }
 }
